@@ -1,7 +1,8 @@
-# katyos
+# Katy OS
+
 Katy OS is an Arch Linux–based distribution built for developers and gamers who demand performance, control, and simplicity at the same time.  It combines a powerful and minimal core with a extensive driver support, and a seamless user experience—so you can focus on coding, playing, and creating instead of fighting your system.
 
-Katy OS Manifesto
+# Katy OS Manifesto
 
 We believe power should not come at the cost of usability.
 
@@ -10,7 +11,7 @@ you shouldn’t have to fight your system to control it.
 
 We stand on the shoulders of Arch Linux—embracing its flexibility, minimalism, and transparency—while removing the unnecessary friction that keeps people away.
 
-* Our Principles
+# Our Principles
 
 1. Control without complexity
 Powerful systems should be intuitive, not punishing.
@@ -36,7 +37,7 @@ Katy OS will always belong to its community.
 No gatekeeping. No elitism. No “RTFM culture” as a requirement.
 You can learn, explore, and grow—without frustration.
 
-* Our Goal
+# Our Goal
 
 To be the system where:
 
