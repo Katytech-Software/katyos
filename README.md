@@ -46,3 +46,7 @@ To be the system where:
 - and users stay in control
 
 All at the same time.
+
+# Philosophy in one line
+
+Built for Devs. Tuned for Gamers.
